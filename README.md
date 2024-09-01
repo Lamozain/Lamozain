@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amos @Lamozain
-- 👀 I’m interested in Data.
-- 🌱 I’m currently learning Data Analysis, Data Science, and Machine Learning 
-- 💞️ I’m looking to collaborate on python and R data projects. 
+- 👀 I’m into Data and App Development.
+- 🌱 I’m currently dining with Data Analysis, Data Science, Machine Learning, App Development. 
+- 💞️ I’m looking to collaborate on Python and R data projects. 
 - 📫 Reach me on shema.omofaye@gmail.com
 
 <!---
